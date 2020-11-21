@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=StringsSecondAssigments
+comment0.text=\r\n\ Write\ a\ description\ of\ StringsSecondAssigments\ here.\r\n\ \r\n\ @author\ MarcoSantss\r\n\ @version\ 03/29/2020\r\n
+comment1.params=dna\ startIndex\ stopCodon
+comment1.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna
+comment2.target=java.lang.String\ findGene(java.lang.String)
+comment3.params=stringa\ stringb
+comment3.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment4.params=dna
+comment4.target=int\ countGenes(java.lang.String)
+comment5.params=
+comment5.target=void\ testFindStopCodon()
+comment6.params=
+comment6.target=void\ testFindGene()
+comment7.params=
+comment7.target=void\ testHowMany()
+comment8.params=
+comment8.target=void\ testCountGenes()
+numComments=9
